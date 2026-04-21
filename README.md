@@ -1,24 +1,40 @@
-# 🧠 Depression Detection System
+# 🏥 BreathFix – Medical Appointment Booking System
 
-A full-stack AI-based system designed to detect signs of depression using semantic analysis of textual data. The project includes a frontend interface, PHP-based form handling, a Node.js-based backend, and NLP techniques to analyze user input and identify mental health patterns.
+BreathFix is a full-stack medical web application designed to connect patients with multiple doctors and simplify the appointment booking process. The system provides secure user authentication, doctor listings, and an efficient scheduling interface through a responsive frontend and backend integration.
 
 ---
 
 ## 🚀 Technologies Used
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js,PHP
-- AI/NLP: Python, Machine Learning, NLP techniques
+- Frontend: HTML, CSS, JavaScript (Vite + Tailwind CSS)
+- Backend: PHP (API handling, form processing)
+- Database: MySQL
+- Tools: Node.js (for frontend development environment)
 
 ---
 
 ## ✨ Features
-- User-friendly frontend interface for input
-- Backend processing using Node.js
-- Text-based sentiment and semantic analysis
-- Detection of depression-related patterns
-- Data-driven prediction system
-- Form-based user input handling using PHP
+- User registration and login system
+- Secure authentication using PHP
+- Doctor listing and profile display
+- Appointment booking functionality
+- Form handling and data storage using PHP & MySQL
+- Responsive and user-friendly UI
+- Structured frontend-backend integration
+
 ---
 
 ## 🎯 Project Objective
-The goal of this project is to assist in early detection of mental health issues by analyzing textual input and providing insights using AI and full-stack development.
+The goal of BreathFix is to provide a simple and efficient platform for patients to book appointments with doctors, manage their profiles, and access healthcare services digitally through a full-stack web solution.
+
+---
+
+## 📸 Screenshots
+(Add screenshots here)
+
+---
+
+## 🔮 Future Enhancements
+- Online payment integration
+- Email/SMS appointment notifications
+- Admin dashboard for doctor and appointment management
+- Real-time availability tracking
