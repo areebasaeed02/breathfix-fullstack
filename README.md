@@ -28,11 +28,6 @@ The goal of BreathFix is to provide a simple and efficient platform for patients
 
 ---
 
-## 📸 Screenshots
-(Add screenshots here)
-
----
-
 ## 🔮 Future Enhancements
 - Online payment integration
 - Email/SMS appointment notifications
